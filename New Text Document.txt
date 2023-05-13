@@ -1,0 +1,11 @@
+Home
+	Slider
+	3 Images
+	
+About
+
+gallery
+	12 Images
+Contact
+	Google Map
+	Formik
