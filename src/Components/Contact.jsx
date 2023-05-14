@@ -15,7 +15,7 @@ let Contact = ()=>{
             <div className="contact-content">
                 <div className="column left">
                     <div className="text">Get in Touch</div>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos harum corporis fuga corrupti. Doloribus quis soluta nesciunt veritatis vitae nobis?</p>
+                    <p>Thank you for visiting my website and showing interest in my work. I would love to hear from you and discuss potential collaborations, projects, or any inquiries you may have. Please feel free to reach out to me. I look forward to connecting with you and exploring new opportunities together.</p>
                     <div className="icons">
                         <div className="row">
                             <FaUser className="users"/>

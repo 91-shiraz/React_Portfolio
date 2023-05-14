@@ -9,14 +9,9 @@ let Skills = () => {
           <h2 className="title">My Skills</h2>
           <div className="skills-content">
             <div className="column left">
-              <div className="text">My creative skills & experiences.</div>
+              <div className="text">My Creative Skills & Experience</div>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Dignissimos, ratione error est recusandae consequatur, iusto
-                illum deleniti quidem impedit, quos quaerat quis minima sequi.
-                Cupiditate recusandae laudantium esse, harum animi aspernatur
-                quisquam et delectus ipsum quam alias quaerat? Quasi hic quidem
-                illum. Ad delectus natus aut hic explicabo minus quod.
+                I am a highly motivated and Front-End Developer with 15 months of experience in the field. My passion for technology and desire to continuously improve my skills make me a valuable asset to my team. I am excited about the opportunity to apply my skills and continue to grow as a Front-End Developer.
               </p>
               <Link to="/">Read more</Link>
             </div>
@@ -31,27 +26,27 @@ let Skills = () => {
               <div className="bars">
                 <div className="info">
                   <span>CSS</span>
-                  <span>60%</span>
+                  <span>70%</span>
                 </div>
                 <div className="line css"></div>
               </div>
               <div className="bars">
                 <div className="info">
                   <span>JavaScript</span>
-                  <span>80%</span>
+                  <span>60%</span>
                 </div>
                 <div className="line js"></div>
               </div>
               <div className="bars">
                 <div className="info">
-                  <span>Figma</span>
+                  <span>React</span>
                   <span>50%</span>
                 </div>
                 <div className="line php"></div>
               </div>
               <div className="bars">
                 <div className="info">
-                  <span>Illustrator</span>
+                  <span>Git & Github</span>
                   <span>70%</span>
                 </div>
                 <div className="line mysql"></div>

@@ -9,8 +9,8 @@ let About = () => {
   const [typing] = useTypewriter({
     words : ['Designer', 'Developer', 'Photographer', 'Freelancer'],
     loop : {},
-    typeSpeed : 120,
-    deleteSpeed : 80,
+    typeSpeed : 100,
+    deleteSpeed : 60,
   });
 
   return (
